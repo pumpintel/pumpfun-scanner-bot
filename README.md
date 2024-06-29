@@ -1,6 +1,6 @@
 # Features of Pump Intel Bot
 
-## List Pumpfun Tokens that are Live:
+## List Pumpfun Tokens that are Livestreaming:
 Easily find and track tokens that are currently live on Pumpfun.
 
 ## Sort by Market Cap:
