@@ -24,7 +24,9 @@ If you have 1 million INTEL tokens, you can join the exclusive Pump Intel Pro gr
 To join, simply follow the instructions provided by the bot or contact the support team for assistance.
 
 ## Available Commands
-The Pump Intel Bot provides several commands to access different types of data and insights. Here are the available commands:
+
+Pump Intel Chat bot: https://t.me/Pumpintelchat_bot
+The Pump Intel chat Bot provides several commands to access different types of data and insights. Here are the available commands:
 
 /top10: Displays the top 10 trending tokens on Pumpfun.
 /top5: Shows the top 5 trending tokens.
