@@ -6,6 +6,7 @@ The Pump Intel Bot is a powerful tool designed to provide you with real-time ins
 Pump Intel Bot is your go-to resource for the latest data on trending crypto tokens. Whether you are a seasoned trader or a crypto enthusiast, this bot will help you stay ahead in the rapidly evolving world of cryptocurrencies.
 
 ![1_2rhu3a4PDHTTXsZKCHV5NQ](https://github.com/pumpintel/Pump-Intel/assets/173568339/e6e1e3f9-5e1d-4301-98c2-113639dfc134)
+![download](https://github.com/pumpintel/Pump-Intel/assets/173568339/e804feda-2ec0-45a6-82e1-011c1c956e4c)
 
 ## Getting Started
 To start using the Pump Intel Bot, you need to add it to your Telegram. Follow these steps:
