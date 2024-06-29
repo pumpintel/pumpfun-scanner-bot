@@ -9,6 +9,8 @@ Pump Intel Bot is your go-to resource for the latest data on trending crypto tok
 To start using the Pump Intel Bot, you need to add it to your Telegram. Follow these steps:
 Add the Bot to Telegram: ## https://t.me/PumpIntel_bot
 
+## Here is a video on how it works: https://www.youtube.com/watch?v=4oqSkferVZ8
+
 Search for the Pump Intel Bot in Telegram or use the direct link: Add Pump Intel Bot.
 Click on "Start" to initiate the bot.
 Join the Pump Intel Pro Group (Optional):
