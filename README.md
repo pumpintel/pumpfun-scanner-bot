@@ -66,5 +66,5 @@ Help:
 Type /help to get a detailed description of how to use the bot and its commands.
 
 ## Support
-If you have any questions or need support, please join our Telegram community or contact our support team.
+If you have any questions or need support, please join our Telegram community or contact our support team. https://t.me/pumpintelcommunity
 
