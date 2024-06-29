@@ -1,22 +1,63 @@
-# Features of Pump Intel Bot
+# How to Use the Pump Intel Bot
 
-## List Pumpfun Tokens that are Livestreaming:
-Easily find and track tokens that are currently live on Pumpfun.
+The Pump Intel Bot is a powerful tool designed to provide you with real-time insights and data on the hottest crypto tokens on the Pumpfun platform. This guide will help you get started and make the most of its features.
 
-## Sort by Market Cap:
-Quickly sort tokens by their market cap to identify the most valuable and the up-and-coming projects.
+## Introduction
+Pump Intel Bot is your go-to resource for the latest data on trending crypto tokens. Whether you are a seasoned trader or a crypto enthusiast, this bot will help you stay ahead in the rapidly evolving world of cryptocurrencies.
 
-## Filter Small Market Cap Tokens:
-Filter out tokens with a market cap less than $15k to focus on potentially more stable and valuable tokens.
+## Getting Started
+To start using the Pump Intel Bot, you need to add it to your Telegram. Follow these steps:
+Add the Bot to Telegram: ## https://t.me/PumpIntel_bot
 
-## Show Social Links:
-Access the social links of each token including Twitter, Telegram, Website, and Pumpfun profile directly from the bot.
+Search for the Pump Intel Bot in Telegram or use the direct link: Add Pump Intel Bot.
+Click on "Start" to initiate the bot.
+Join the Pump Intel Pro Group (Optional):
 
-## Fast Swap with Bonkbot, Pepeboost, GMGN Sniper Bot:
-Execute quick swaps using popular tools like Bonkbot, Pepeboost, and GMGN Sniper Bot with just one click.
+If you have 1 million INTEL tokens, you can join the exclusive Pump Intel Pro group to access premium features.
+To join, simply follow the instructions provided by the bot or contact the support team for assistance.
 
-## Support Mobile and PC, Light and Dark Mode:
-Enjoy seamless usage across devices with support for both mobile and PC. Choose between light and dark mode for a comfortable experience.
+## Available Commands
+The Pump Intel Bot provides several commands to access different types of data and insights. Here are the available commands:
 
-## Support PWA:
-Add Pump Intel Bot to your desktop as a Progressive Web App (PWA) for a more integrated and improved user experience.
+/top10: Displays the top 10 trending tokens on Pumpfun.
+/top5: Shows the top 5 trending tokens.
+/top3: Lists the top 3 trending tokens.
+/last: Provides details of the latest trade on Pumpfun.
+/koth: Reveals the current King of the Hill token.
+/live: Shows the token currently live streaming.
+/help: Offers a detailed description of how to use the bot and its commands
+
+## Using the Bot
+Using the Pump Intel Bot is straightforward. Here’s how you can interact with it:
+
+Top 10 Trending Tokens:
+
+Type /top10 in the chat to get a list of the top 10 trending tokens on Pumpfun.
+Each token will be linked to its Pump profile, and you can easily copy its mint address with a click.
+Top 5 Trending Tokens:
+
+Type /top5 for a quicker overview of the top 5 trending tokens.
+This command is useful for getting a snapshot of the current market trends.
+Top 3 Trending Tokens:
+
+Type /top3 to get a snapshot of the top 3 trending tokens.
+Ideal for a quick glance at the most significant movers in the market.
+Latest Trade:
+
+Use /last to find out the most recent trade on Pumpfun.
+Perfect for keeping track of the latest market activity.
+King of the Hill:
+
+Type /koth to reveal the current King of the Hill token.
+Provides insights into the most dominant token on the platform.
+Live Stream:
+
+Type /live to stay informed about tokens with live streams in real-time.
+Ensures you can join the action as it happens.
+Help:
+
+Type /help to get a detailed description of how to use the bot and its commands.
+
+## Support
+If you have any questions or need support, please join our Telegram community or contact our support team.
+
