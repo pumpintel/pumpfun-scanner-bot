@@ -1,0 +1,87 @@
+Pump Intel Pro README
+Welcome to the Pump Intel Pro repository! This repository contains all the information and resources you need to get started with our exclusive tools and features. Pump Intel Pro provides advanced insights and real-time data to enhance your trading experience on the Pumpfun platform.
+
+Table of Contents
+Introduction
+Features
+Installation
+Usage
+Commands
+Contributing
+Support
+License
+Introduction
+Pump Intel Pro is designed for traders who want to stay ahead in the rapidly evolving world of cryptocurrencies. By holding 1 million INTEL tokens, you gain access to our premium tools and features that provide real-time insights and data on trending crypto tokens.
+
+Features
+Top 10 Trending Coins: Get a list of the top 10 trending coins with real-time updates.
+Top 5 Trending Coins: A quicker overview with the top 5 trending tokens.
+Top 3 Trending Coins: Snapshot of the top 3 trending tokens.
+Latest Trade: Details of the most recent trade on Pumpfun.
+King of the Hill: Insights into the most dominant token on the platform.
+Live Stream: Stay informed about tokens with live streams in real-time.
+Community Links: Easy access to the Pump Intel website, token scanning bot, and our Telegram community.
+Installation
+To get started with Pump Intel Pro, follow these steps:
+
+Clone the repository:
+
+bash
+Code kopiëren
+git clone https://github.com/yourusername/pump-intel-pro.git
+Navigate to the project directory:
+
+bash
+Code kopiëren
+cd pump-intel-pro
+Install the required dependencies:
+
+bash
+Code kopiëren
+npm install
+Set up your environment variables by creating a .env file in the root directory and adding the following:
+
+env
+Code kopiëren
+TELEGRAM_BOT_TOKEN=your_telegram_bot_token
+PUMP_API_KEY=your_pump_api_key
+Start the application:
+
+bash
+Code kopiëren
+npm start
+Usage
+Once the application is running, you can interact with the Pump Intel Pro bot on Telegram using the following commands.
+
+Commands
+/top10: Displays the top 10 trending tokens on Pumpfun.
+/top5: Shows the top 5 trending tokens.
+/top3: Lists the top 3 trending tokens.
+/last: Provides details of the latest trade on Pumpfun.
+/koth: Reveals the current King of the Hill token.
+/live: Shows the token currently live streaming.
+/help: Offers a detailed description of how to use the bot and its commands.
+Contributing
+We welcome contributions from the community! If you would like to contribute to Pump Intel Pro, please follow these steps:
+
+Fork the repository.
+Create a new branch for your feature or bugfix:
+bash
+Code kopiëren
+git checkout -b feature/your-feature-name
+Commit your changes:
+bash
+Code kopiëren
+git commit -m 'Add your commit message'
+Push to the branch:
+bash
+Code kopiëren
+git push origin feature/your-feature-name
+Open a pull request and describe your changes.
+Support
+If you have any questions or need support, please join our Telegram community or open an issue in this repository.
+
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+Thank you for being a part of Pump Intel Pro! We are committed to providing you with the best tools and features to enhance your trading experience on Pumpfun. Happy trading! 🚀
