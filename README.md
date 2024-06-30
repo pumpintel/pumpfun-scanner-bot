@@ -7,6 +7,7 @@ Pump Intel Bot is your go-to resource for the latest data on trending crypto tok
 
 ![1_2rhu3a4PDHTTXsZKCHV5NQ](https://github.com/pumpintel/Pump-Intel/assets/173568339/e6e1e3f9-5e1d-4301-98c2-113639dfc134)
 ![download](https://github.com/pumpintel/Pump-Intel/assets/173568339/e804feda-2ec0-45a6-82e1-011c1c956e4c)
+https://ibb.co/6DnCKHb
 
 ## Getting Started
 To start using the Pump Intel Bot, you need to add it to your Telegram. Follow these steps:
